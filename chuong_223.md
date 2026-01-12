@@ -195,7 +195,7 @@ Sở Vương tức giận: “Cái kia Ngu Tuyết Oánh đã có cảnh giác, 
 **Thông tin chương:**
 - Số chương: 223
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-223](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-223)
-- Thời gian scrape: 2026-01-13 00:19:27
+- Thời gian scrape: 2026-01-13 00:33:32
 
 
 [← Chương 222](chuong_222.md) | [📚 Mục lục](README.md) | [Chương 224 →](chuong_224.md)

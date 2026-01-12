@@ -253,7 +253,7 @@ Trấn Yêu Quân người phái tới đưa lên ba đầu Khí Hải cảnh y�
 **Thông tin chương:**
 - Số chương: 156
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-156](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-156)
-- Thời gian scrape: 2026-01-13 00:16:44
+- Thời gian scrape: 2026-01-13 00:30:53
 
 
 [← Chương 155](chuong_155.md) | [📚 Mục lục](README.md) | [Chương 157 →](chuong_157.md)

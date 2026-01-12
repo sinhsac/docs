@@ -211,7 +211,7 @@ Bất quá, khi nàng đem Tiết Ngạo Huyên giới thiệu cho hắn nhận 
 **Thông tin chương:**
 - Số chương: 209
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-209](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-209)
-- Thời gian scrape: 2026-01-13 00:18:54
+- Thời gian scrape: 2026-01-13 00:32:59
 
 
 [← Chương 208](chuong_208.md) | [📚 Mục lục](README.md) | [Chương 210 →](chuong_210.md)

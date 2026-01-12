@@ -273,7 +273,7 @@ Bởi vì thông qua thần thức, hắn phát hiện khoảng chừng sáu đ�
 **Thông tin chương:**
 - Số chương: 162
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-162](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-162)
-- Thời gian scrape: 2026-01-13 00:16:58
+- Thời gian scrape: 2026-01-13 00:31:07
 
 
 [← Chương 161](chuong_161.md) | [📚 Mục lục](README.md) | [Chương 163 →](chuong_163.md)

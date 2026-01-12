@@ -231,7 +231,7 @@ Lý Linh Nhi lập tức mặc quần áo tử tế tiến về Thẩm Lâm Th�
 **Thông tin chương:**
 - Số chương: 221
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-221](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-221)
-- Thời gian scrape: 2026-01-13 00:19:23
+- Thời gian scrape: 2026-01-13 00:33:28
 
 
 [← Chương 220](chuong_220.md) | [📚 Mục lục](README.md) | [Chương 222 →](chuong_222.md)

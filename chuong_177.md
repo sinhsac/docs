@@ -219,7 +219,7 @@ Công Tôn Sắc Vi có chút nghiền ngẫm nói “Đã ngươi không hiểu
 **Thông tin chương:**
 - Số chương: 177
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-177](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-177)
-- Thời gian scrape: 2026-01-13 00:17:39
+- Thời gian scrape: 2026-01-13 00:31:44
 
 
 [← Chương 176](chuong_176.md) | [📚 Mục lục](README.md) | [Chương 178 →](chuong_178.md)

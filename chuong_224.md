@@ -249,7 +249,7 @@ Lúc này, Phạm Lão hướng trong miệng ném đi khỏa đan dược chữ
 **Thông tin chương:**
 - Số chương: 224
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-224](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-224)
-- Thời gian scrape: 2026-01-13 00:19:30
+- Thời gian scrape: 2026-01-13 00:33:35
 
 
 [← Chương 223](chuong_223.md) | [📚 Mục lục](README.md) | [Chương 225 →](chuong_225.md)

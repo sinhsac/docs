@@ -271,7 +271,7 @@ Hay là chỉ cần tốn hao 40 vạn điểm g·iết chóc, hắn liền có 
 **Thông tin chương:**
 - Số chương: 151
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-151](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-151)
-- Thời gian scrape: 2026-01-13 00:16:33
+- Thời gian scrape: 2026-01-13 00:30:41
 
 
 [← Chương 150](chuong_150.md) | [📚 Mục lục](README.md) | [Chương 152 →](chuong_152.md)

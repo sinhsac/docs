@@ -209,7 +209,7 @@ Không nói trước song phương không oán không cừu, thứ yếu, đối
 **Thông tin chương:**
 - Số chương: 211
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-211](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-211)
-- Thời gian scrape: 2026-01-13 00:18:59
+- Thời gian scrape: 2026-01-13 00:33:04
 
 
 [← Chương 210](chuong_210.md) | [📚 Mục lục](README.md) | [Chương 212 →](chuong_212.md)

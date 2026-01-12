@@ -221,7 +221,7 @@ Nhưng hắn không có khả năng cầm Ngu Tuyết Oánh thế nào, lại c�
 **Thông tin chương:**
 - Số chương: 215
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-215](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-215)
-- Thời gian scrape: 2026-01-13 00:19:08
+- Thời gian scrape: 2026-01-13 00:33:13
 
 
 [← Chương 214](chuong_214.md) | [📚 Mục lục](README.md) | [Chương 216 →](chuong_216.md)

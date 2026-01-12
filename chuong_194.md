@@ -257,7 +257,7 @@ Nhưng mình cường đại, mới là thật cường đại.
 **Thông tin chương:**
 - Số chương: 194
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-194](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-194)
-- Thời gian scrape: 2026-01-13 00:18:19
+- Thời gian scrape: 2026-01-13 00:32:24
 
 
 [← Chương 193](chuong_193.md) | [📚 Mục lục](README.md) | [Chương 195 →](chuong_195.md)

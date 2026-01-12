@@ -231,7 +231,7 @@ Lập tức, tất cả mọi người dừng bước lại, Tiết Linh Đồng
 **Thông tin chương:**
 - Số chương: 204
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-204](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-204)
-- Thời gian scrape: 2026-01-13 00:18:43
+- Thời gian scrape: 2026-01-13 00:32:48
 
 
 [← Chương 203](chuong_203.md) | [📚 Mục lục](README.md) | [Chương 205 →](chuong_205.md)

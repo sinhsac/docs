@@ -261,7 +261,7 @@ Mà hóa thành bạch quang cửu tinh linh thể cùng Thẩm Dục cũng kéo
 **Thông tin chương:**
 - Số chương: 164
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-164](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-164)
-- Thời gian scrape: 2026-01-13 00:17:08
+- Thời gian scrape: 2026-01-13 00:31:12
 
 
 [← Chương 163](chuong_163.md) | [📚 Mục lục](README.md) | [Chương 165 →](chuong_165.md)

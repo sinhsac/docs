@@ -275,7 +275,7 @@ Có thể hoàn toàn phục chế đối phương ký ức.
 **Thông tin chương:**
 - Số chương: 169
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-169](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-169)
-- Thời gian scrape: 2026-01-13 00:17:20
+- Thời gian scrape: 2026-01-13 00:31:24
 
 
 [← Chương 168](chuong_168.md) | [📚 Mục lục](README.md) | [Chương 170 →](chuong_170.md)

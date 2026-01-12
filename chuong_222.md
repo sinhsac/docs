@@ -215,7 +215,7 @@ Thẩm Dục cũng nghiêm túc, trực tiếp phóng xuất ra một sợi Nguy
 **Thông tin chương:**
 - Số chương: 222
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-222](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-222)
-- Thời gian scrape: 2026-01-13 00:19:25
+- Thời gian scrape: 2026-01-13 00:33:30
 
 
 [← Chương 221](chuong_221.md) | [📚 Mục lục](README.md) | [Chương 223 →](chuong_223.md)

@@ -257,7 +257,7 @@ Chỉ là tương đối mà nói, thần sen đạo càng thần bí, càng cư
 **Thông tin chương:**
 - Số chương: 160
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-160](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-160)
-- Thời gian scrape: 2026-01-13 00:16:54
+- Thời gian scrape: 2026-01-13 00:31:02
 
 
 [← Chương 159](chuong_159.md) | [📚 Mục lục](README.md) | [Chương 161 →](chuong_161.md)

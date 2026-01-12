@@ -2,7 +2,7 @@
 
 ## 📚 Mục lục
 
-Tổng số chương: **279**
+Tổng số chương: **305**
 
 ---
 
@@ -52,6 +52,32 @@ Tổng số chương: **279**
 - [Chương 122: liên tiếp thu hoạch hai huyện](chuong_122.md)
 - [Chương 123: về vân thủy phủ](chuong_123.md)
 - [Chương 124: online ăn dưa](chuong_124.md)
+- [Chương 125: thế cục đột biến](chuong_125.md)
+- [Chương 126: lưu dân](chuong_126.md)
+- [Chương 127: Đoán Thần Quyết tầng thứ tám](chuong_127.md)
+- [Chương 128: yêu thú dẫn](chuong_128.md)
+- [Chương 129: Tiết Càn](chuong_129.md)
+- [Chương 130: tiến vào bí cảnh](chuong_130.md)
+- [Chương 131: Lão Đăng bạo kim tệ](chuong_131.md)
+- [Chương 132: đánh dã trở về](chuong_132.md)
+- [Chương 133: đột nhiên xuất hiện triệu tập](chuong_133.md)
+- [Chương 134: gặp lại Đông Phương Lưu Ly](chuong_134.md)
+- [Chương 135: hủy diệt phản quân](chuong_135.md)
+- [Chương 136: Ma Vân Giáo bí cảnh](chuong_136.md)
+- [Chương 137: giết chết Tiết Càn](chuong_137.md)
+- [Chương 138: tiểu thế giới cùng Linh giới lệnh thông hành](chuong_138.md)
+- [Chương 139: Thẩm Dục phía sau có cao nhân](chuong_139.md)
+- [Chương 140: giết Nguyên Thần cảnh](chuong_140.md)
+- [Chương 141: giáo huấn Đông Phương Lưu Ly](chuong_141.md)
+- [Chương 142: tỉnh lại sau giấc ngủ tu vi tăng lên](chuong_142.md)
+- [Chương 143: mùi vị kia rất quen thuộc](chuong_143.md)
+- [Chương 144: Yêu tộc phạm án](chuong_144.md)
+- [Chương 145: thành công bắt](chuong_145.md)
+- [Chương 146: bị người mưu hại](chuong_146.md)
+- [Chương 147: không nể mặt mũi](chuong_147.md)
+- [Chương 148: bài trừ ở bên ngoài](chuong_148.md)
+- [Chương 149: bị hái đi Đào Tử](chuong_149.md)
+- [Chương 150: Lục Thiên Lâu Phân Lâu](chuong_150.md)
 - [Chương 151: hơn tám mươi vạn điểm giết chóc](chuong_151.md)
 - [Chương 152: ngư ông đắc lợi](chuong_152.md)
 - [Chương 153: Ngu Tuyết Oánh phản kích](chuong_153.md)
@@ -294,4 +320,4 @@ Tổng số chương: **279**
 - Mỗi chương có link điều hướng ở đầu và cuối trang
 - Dữ liệu được scrape từ truyenmoiz.org
 
-**Tổng số chương:** 279
+**Tổng số chương:** 305

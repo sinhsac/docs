@@ -205,7 +205,7 @@ Dương Thiên Tứ phát ra một tiếng gầm thét, lợi dụng thần th�
 **Thông tin chương:**
 - Số chương: 216
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-216](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-216)
-- Thời gian scrape: 2026-01-13 00:19:11
+- Thời gian scrape: 2026-01-13 00:33:16
 
 
 [← Chương 215](chuong_215.md) | [📚 Mục lục](README.md) | [Chương 217 →](chuong_217.md)

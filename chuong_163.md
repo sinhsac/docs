@@ -255,7 +255,7 @@ Lợi dụng thần thức quét qua, hắn lập tức lộ ra sợ hãi lẫn 
 **Thông tin chương:**
 - Số chương: 163
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-163](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-163)
-- Thời gian scrape: 2026-01-13 00:17:05
+- Thời gian scrape: 2026-01-13 00:31:10
 
 
 [← Chương 162](chuong_162.md) | [📚 Mục lục](README.md) | [Chương 164 →](chuong_164.md)

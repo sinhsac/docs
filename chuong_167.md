@@ -251,7 +251,7 @@ Bắt đầu thấy: “Công tử, người ta quá sùng bái ngươi!”
 **Thông tin chương:**
 - Số chương: 167
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-167](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-167)
-- Thời gian scrape: 2026-01-13 00:17:15
+- Thời gian scrape: 2026-01-13 00:31:19
 
 
 [← Chương 166](chuong_166.md) | [📚 Mục lục](README.md) | [Chương 168 →](chuong_168.md)

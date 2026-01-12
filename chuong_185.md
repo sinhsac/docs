@@ -263,7 +263,7 @@ Cho nên, đối phương hay là trốn không thoát.
 **Thông tin chương:**
 - Số chương: 185
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-185](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-185)
-- Thời gian scrape: 2026-01-13 00:17:58
+- Thời gian scrape: 2026-01-13 00:32:03
 
 
 [← Chương 184](chuong_184.md) | [📚 Mục lục](README.md) | [Chương 186 →](chuong_186.md)

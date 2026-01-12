@@ -243,7 +243,7 @@ Trong đó liền gặp được nhiều lần liên quan tới lang yêu, cho n
 **Thông tin chương:**
 - Số chương: 197
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-197](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-197)
-- Thời gian scrape: 2026-01-13 00:18:26
+- Thời gian scrape: 2026-01-13 00:32:31
 
 
 [← Chương 196](chuong_196.md) | [📚 Mục lục](README.md) | [Chương 198 →](chuong_198.md)

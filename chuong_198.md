@@ -233,7 +233,7 @@ Nhưng điểm g·iết chóc tổng số lại đột phá đến 4 triệu.
 **Thông tin chương:**
 - Số chương: 198
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-198](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-198)
-- Thời gian scrape: 2026-01-13 00:18:28
+- Thời gian scrape: 2026-01-13 00:32:33
 
 
 [← Chương 197](chuong_197.md) | [📚 Mục lục](README.md) | [Chương 199 →](chuong_199.md)

@@ -223,7 +223,7 @@ Chuyện lần này hoàn toàn chính xác cho nàng một cái cực kỳ giá
 **Thông tin chương:**
 - Số chương: 168
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-168](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-168)
-- Thời gian scrape: 2026-01-13 00:17:17
+- Thời gian scrape: 2026-01-13 00:31:22
 
 
 [← Chương 167](chuong_167.md) | [📚 Mục lục](README.md) | [Chương 169 →](chuong_169.md)

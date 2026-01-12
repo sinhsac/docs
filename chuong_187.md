@@ -239,7 +239,7 @@ Nhưng Trấn Yêu Ti bên này có yêu mã thay đi bộ, cũng liền chưa t
 **Thông tin chương:**
 - Số chương: 187
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-187](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-187)
-- Thời gian scrape: 2026-01-13 00:18:02
+- Thời gian scrape: 2026-01-13 00:32:07
 
 
 [← Chương 186](chuong_186.md) | [📚 Mục lục](README.md) | [Chương 188 →](chuong_188.md)

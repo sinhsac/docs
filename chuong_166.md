@@ -233,7 +233,7 @@ Nhìn thấy hắn trở về, song bào thai tỷ muội lập tức cảm giá
 **Thông tin chương:**
 - Số chương: 166
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-166](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-166)
-- Thời gian scrape: 2026-01-13 00:17:13
+- Thời gian scrape: 2026-01-13 00:31:17
 
 
 [← Chương 165](chuong_165.md) | [📚 Mục lục](README.md) | [Chương 167 →](chuong_167.md)

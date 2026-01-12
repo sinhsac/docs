@@ -217,7 +217,7 @@ Thẩm Dục lấy ra một vò rượu ném cho Ngô Minh Sơn, liền lách m�
 **Thông tin chương:**
 - Số chương: 195
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-195](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-195)
-- Thời gian scrape: 2026-01-13 00:18:21
+- Thời gian scrape: 2026-01-13 00:32:26
 
 
 [← Chương 194](chuong_194.md) | [📚 Mục lục](README.md) | [Chương 196 →](chuong_196.md)

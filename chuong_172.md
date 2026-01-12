@@ -249,7 +249,7 @@ Những ngày này, Trấn Yêu Quân cũng phái ra đại lượng trinh sát,
 **Thông tin chương:**
 - Số chương: 172
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-172](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-172)
-- Thời gian scrape: 2026-01-13 00:17:27
+- Thời gian scrape: 2026-01-13 00:31:31
 
 
 [← Chương 171](chuong_171.md) | [📚 Mục lục](README.md) | [Chương 173 →](chuong_173.md)

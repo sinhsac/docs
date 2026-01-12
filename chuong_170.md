@@ -247,7 +247,7 @@ Thẩm Dục cũng mang theo năm mai nhẫn trữ vật rời đi.
 **Thông tin chương:**
 - Số chương: 170
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-170](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-170)
-- Thời gian scrape: 2026-01-13 00:17:22
+- Thời gian scrape: 2026-01-13 00:31:27
 
 
 [← Chương 169](chuong_169.md) | [📚 Mục lục](README.md) | [Chương 171 →](chuong_171.md)

@@ -233,7 +233,7 @@ Nghe được vị này bách hộ giảng thuật, Thẩm Dục trong nháy m�
 **Thông tin chương:**
 - Số chương: 193
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-193](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-193)
-- Thời gian scrape: 2026-01-13 00:18:17
+- Thời gian scrape: 2026-01-13 00:32:22
 
 
 [← Chương 192](chuong_192.md) | [📚 Mục lục](README.md) | [Chương 194 →](chuong_194.md)

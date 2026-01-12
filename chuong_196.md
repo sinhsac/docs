@@ -217,7 +217,7 @@ Cũng minh bạch đối phương là dựng vào một vị họ Mông phó bá
 **Thông tin chương:**
 - Số chương: 196
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-196](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-196)
-- Thời gian scrape: 2026-01-13 00:18:24
+- Thời gian scrape: 2026-01-13 00:32:29
 
 
 [← Chương 195](chuong_195.md) | [📚 Mục lục](README.md) | [Chương 197 →](chuong_197.md)

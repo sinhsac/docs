@@ -237,7 +237,7 @@ Hắn đoán chừng a, nhiều nhất ba năm ngày, các nàng liền sẽ bư
 **Thông tin chương:**
 - Số chương: 161
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-161](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-161)
-- Thời gian scrape: 2026-01-13 00:16:56
+- Thời gian scrape: 2026-01-13 00:31:05
 
 
 [← Chương 160](chuong_160.md) | [📚 Mục lục](README.md) | [Chương 162 →](chuong_162.md)

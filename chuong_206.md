@@ -225,7 +225,7 @@ Rất nhanh, hai người liền đụng vào nhau.
 **Thông tin chương:**
 - Số chương: 206
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-206](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-206)
-- Thời gian scrape: 2026-01-13 00:18:47
+- Thời gian scrape: 2026-01-13 00:32:52
 
 
 [← Chương 205](chuong_205.md) | [📚 Mục lục](README.md) | [Chương 207 →](chuong_207.md)
